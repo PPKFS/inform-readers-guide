@@ -17,7 +17,7 @@ Link: https://ganelson.github.io/inform/words-module/index.html
 	- [[Numbered Words|Numbered Words]]
 - Chapter 3 - Words in Sequence
 	- [[inform/Lexer|Lexer]]
-	- [[Wordings|Wordings]]
+	- [[inform/Wordings|Wordings]]
 	- [[Text From Files|Text From Files]]
 	- [[Feeds|Feeds]]
 	- [[Identifiers|Identifiers]]
