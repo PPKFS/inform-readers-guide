@@ -1,4 +1,11 @@
 body {
+    .content {
+    max-width: 1300px;
+    margin: auto;
+    font-size: 14px;
+    line-height: 1.4;
+    }
+    
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
