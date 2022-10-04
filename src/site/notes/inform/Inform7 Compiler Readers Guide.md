@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inform/inform7-compiler-readers-guide/","tags":["inform","gardenEntry"],"dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/inform/inform7-compiler-readers-guide/","tags":["inform, moc","gardenEntry"],"dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
@@ -22,30 +22,30 @@ For the most part the structure here will just mirror that of the docs themselve
 ### Inform7
 - [[inform/core|core]]
 - [[inform/assertions|assertions]]
-- [[values|values]]
-- [[knowledge|knowledge]]
-- [[imperative|imperative]]
-- [[runtime|runtime]]
-- [[if|if]]
-- [[multimedia|multimedia]]
+- [[inform/values|values]]
+- [[inform/knowledge|knowledge]]
+- [[inform/imperative|imperative]]
+- [[inform/runtime|runtime]]
+- [[inform/if|if]]
+- [[inform/multimedia|multimedia]]
 ### Inter
-- [[inter|inter]]
-- [[bytecode|bytecode]]
-- [[building|building]]
-- [[pipeline|pipeline]]
-- [[final|final]]
-- [[index|index]]
+- [[inform/inter|inter]]
+- [[inform/bytecode|bytecode]]
+- [[inform/building|building]]
+- [[inform/pipeline|pipeline]]
+- [[inform/final|final]]
+- [[inform/index|index]]
 ### Services
 - [[inform/words|words]]
 - [[inform/lexicon|lexicon]]
 - [[inform/calculus|calculus]]
 - [[inform/syntax|syntax]]
-- [[linguistics|linguistics]]
-- [[inflections|inflections]]
-- [[kinds|kinds]]
-- [[arch|arch]]
-- [[problems|problems]]
-- [[html|html]]
+- [[inform/linguistics|linguistics]]
+- [[inform/inflections|inflections]]
+- [[inform/kinds|kinds]]
+- [[inform/arch|arch]]
+- [[inform/problems|problems]]
+- [[inform/html|html]]
 ### Extensions
 - [[Basic Inform|Basic Inform]]
 - [[Standard Rules|Standard Rules]]
