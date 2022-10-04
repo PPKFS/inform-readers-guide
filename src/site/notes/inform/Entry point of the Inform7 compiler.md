@@ -9,4 +9,4 @@ Link: https://ganelson.github.io/inform/inform7/1-mn.html
 
 # Contents
 - Chapter 1 - Delegation
-	-  [[inform/Main|Main]]
+	-  [[inform/Main|Main]] - The entry point.
