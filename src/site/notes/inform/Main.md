@@ -15,4 +15,4 @@ Link: https://ganelson.github.io/inform/inform7/1-mn.html
 	- We then 'go operational', which is setting up the graph in [[inform/Copies|Copies]]
 	- Then we build in [[inform/Copies|Copies]]
 - Building is in [5](https://ganelson.github.io/inform/inform7/1-mn.html#SP2_5)
-	- [[inform/Copies|Copies]] → [[build|build]]
+	- [[inform/Copies|Copies]] → build
