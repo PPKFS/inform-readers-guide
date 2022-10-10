@@ -9,7 +9,7 @@ Link: https://ganelson.github.io/inform/supervisor-module/4-pbm.html
 # Overview
 - The slightly more media focused version of [[inform/Project File Manager|Project File Manager]]
 # Contents
-- This makes a new work via [[Works|Works]] 
-- an edition of it via [[Editions|Editions]] 
+- This makes a new work via [[inform/Works|Works]] 
+- an edition of it via [[inform/Editions|Editions]] 
 - and finally a copy of it via [[inform/Copies|Copies]]
 - Then to actually build, we go to [[inform/Project Services|Project Services]] to `construct_graph`
