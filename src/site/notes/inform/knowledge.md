@@ -22,7 +22,7 @@ Up: [[Inform7 Compiler Readers Guide]]
     - [[inform/Ordering Instances|Ordering Instances]]- A simple system for making an ordered list of instances.
     - [[inform/Nonlocal Variables|Nonlocal Variables]] - To manage variables whose scope is wider than the current rule.
 -   Chapter 3: Properties
-    - [[Properties (knowledge)|Properties (knowledge)]] - Subjects in the model world have properties associated with them: some either/or, others with values.
+    - [[inform/Properties (knowledge)|Properties (knowledge)]] - Subjects in the model world have properties associated with them: some either/or, others with values.
     - [[inform/Either-Or Properties|Either-Or Properties]]- Properties which can either be present or not, but have no value attached.
     - [[inform/Either-Or Property Adjectives|Either-Or Property Adjectives]] - Names of either-or properties when used as adjectives.
     - [[inform/Valued Properties|Valued Properties]]- Properties which attach values to subjects, with such values always having a given kind.
@@ -38,10 +38,10 @@ Up: [[Inform7 Compiler Readers Guide]]
     - [[inform/Instance Subjects|Instance Subjects]] - The instances family of inference subjects.
     - [[inform/Kind Subjects|Kind Subjects]]- The kinds family of inference subjects.
     - [[inform/Relation Subjects|Relation Subjects]] - The relations family of inference subjects.
-    - [[Property Permissions (knowledge)|Property Permissions (knowledge)]] - To enforce the domain of properties: for instance, that a door can be open or closed but that an animal cannot, or that a person can have a carrying capacity but that a door cannot.
+    - [[inform/Property Permissions (knowledge)|Property Permissions (knowledge)]] - To enforce the domain of properties: for instance, that a door can be open or closed but that an animal cannot, or that a person can have a carrying capacity but that a door cannot.
     - [[inform/Conditions of Subjects|Conditions of Subjects]] - Properties which hold one of an enumerated set of named states of something.
 -   Chapter 5: Modelling
-    - [[Inferences (knowledge)|Inferences (knowledge)]] - An inference is a single datum about the world model, believed to be true or untrue and with some degree of certainty.
+    - [[inform/Inferences (knowledge)|Inferences (knowledge)]] - An inference is a single datum about the world model, believed to be true or untrue and with some degree of certainty.
     - [[inform/Property Inferences|Property Inferences]] - Inferences that a property of something is true, or has a particular value.
     - [[inform/Indefinite Appearance|Indefinite Appearance]]- When the source text comments on something with a sentence consisting only of a double-quoted literal text, we infer that as an indefinite appearance property.
     - [[inform/Relation Inferences|Relation Inferences]] - Inferences that a relation holds between two subjects or values.
