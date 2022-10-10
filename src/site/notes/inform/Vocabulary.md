@@ -26,6 +26,6 @@ Up: [[words]]
 - `identify_word` is the [main entry point](https://ganelson.github.io/inform/words-module/2-vcb.html#SP3) of adding new words, which is called via the [[inform/Lexer|Lexer]] and apparently also in [[inform/Numbered Words|Numbered Words]]?
 	- `entry_for_text` [either adds it or looks it up](https://ganelson.github.io/inform/words-module/2-vcb.html#SP15).
 	- [And creates a new entry for it](https://ganelson.github.io/inform/words-module/2-vcb.html#SP5) .
-	- If we are using the [[Excerpt Meanings|Excerpt Meanings]] then we have a callback here.
-	- For the most part the `upper_case_form` seems to be unused, except by calling `Vocabulary::make_case_sensitive` which happens in [[Excerpt Meanings|Excerpt Meanings]] .
+	- If we are using the [[inform/Excerpt Meanings|Excerpt Meanings]] then we have a callback here.
+	- For the most part the `upper_case_form` seems to be unused, except by calling `Vocabulary::make_case_sensitive` which happens in [[inform/Excerpt Meanings|Excerpt Meanings]] .
 - Most of this module is creating their own hash table and access functions.
