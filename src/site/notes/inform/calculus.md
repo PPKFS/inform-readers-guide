@@ -8,23 +8,23 @@ Link: https://ganelson.github.io/inform/calculus-module/index.html
 ```
 # Contents
 - Chapter 1 - Setting Up
-	- [[Calculus Module|Calculus Module]]
+	- [[inform/Calculus Module|Calculus Module]] - Setting up the use of this module.
 - Chapter 2 - Unary Predicates
-	- [[Unary Predicates|Unary Predicates]]
-	- [[Unary Predicate Families|Unary Predicate Families]]
-	- [[Kind Predicates|Kind Predicates]]
+	- [[inform/Unary Predicates|Unary Predicates]] - A lightweight structure to represent a unary predicate, which is either true or false when applied to a single term.
+	- [[inform/Unary Predicate Families|Unary Predicate Families]]
+	- [[inform/Kind Predicates|Kind Predicates]]
 - Chapter 3 - Binary Predicates
-	- [[Binary Predicates|Binary Predicates]]
-	- [[Binary Predicate Families|Binary Predicate Families]]
-	- [[Binary Predicate Term Details|Binary Predicate Term Details]]
-	- [[The Equality Relation|The Equality Relation]]
-	- [[Compilation Schemas|Compilation Schemas]]
+	- [[inform/Binary Predicates|Binary Predicates]]
+	- [[inform/Binary Predicate Families|Binary Predicate Families]]
+	- [[inform/Binary Predicate Term Details|Binary Predicate Term Details]]
+	- [[inform/The Equality Relation|The Equality Relation]]
+	- [[inform/Compilation Schemas|Compilation Schemas]]
 - Chapter 4 - Propositions
-	- [[Terms|Terms]]
-	- [[Atomic Propositions|Atomic Propositions]]
-	- [[Propositions|Propositions]]
-	- [[Binding and Substitution|Binding and Substitution]]
-	- [[Type Check Propositions|Type Check Propositions]]
+	- [[inform/Terms|Terms]]
+	- [[inform/Atomic Propositions|Atomic Propositions]]
+	- [[inform/Propositions|Propositions]]
+	- [[inform/Binding and Substitution|Binding and Substitution]]
+	- [[inform/Type Check Propositions|Type Check Propositions]]
 - Chapter 5 - Sentences
-	- [[Sentence Conversions|Sentence Conversions]]
-	- [[Simplifications|Simplifications]]
+	- [[inform/Sentence Conversions|Sentence Conversions]]
+	- [[inform/Simplifications|Simplifications]]
