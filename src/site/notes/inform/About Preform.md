@@ -8,7 +8,4 @@ Link: [https://ganelson.github.io/inform/words-module/4-ap.html](https://ganelso
 Up: [[words]]
 ```
 
-
-
 # Contents
-- 
