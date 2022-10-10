@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inform/inform7-compiler-readers-guide/","tags":["inform, moc","gardenEntry"],"dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/inform/inform7-compiler-readers-guide/","tags":["inform, moc, guide","gardenEntry"],"dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
@@ -13,6 +13,7 @@ The aim of this site is to provide a complement to the full documentation. By zo
 For the most part the structure here will just mirror that of the docs themselves, but the first few links will be independent flows and collections of relevant links for specific perspectives. My point of interest, for example, is the compiler as a whole -- so I’m writing the [[inform/Compilation Flow|Compilation Flow]] page to allow me to ignore the `inbuild` process or extension census manager.
 
 ## Perspectives
+- [[inform/Grouping of modules|Grouping of modules]]
 - [[inform/Compilation Flow|Compilation Flow]]
 
 ### Inbuild
